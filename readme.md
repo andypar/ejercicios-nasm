@@ -5,7 +5,7 @@
 
 ### EJERCICIOS:
 
-Ejercicios:<br>
+##### Ejercicios:<br>
 1.Dado un entero N, la computadora lo muestra descompuesto en sus factores primos. Ej: 132 = 2 × 2 × 3 × 11<br>
 2.Se ingresa una cadena. La computadora muestra las subcadenas formadas por las posiciones pares e impares de la cadena. Ej: FAISANSACRO : ASNAR FIASCO<br>
 3.Se ingresa un año. La computadora indica si es,o no, bisiesto.<br>
@@ -20,7 +20,7 @@ Ejercicios:<br>
 
 En Windows, primero hay que descargar NASM del sitio web oficial: https://www.nasm.us<br>
 
-### 0) EJECUTAR CODIGOS:
+### 1) EJECUTAR CODIGOS:
 
 En Windows:<br>
 1) `nasm -f win32 final_1.asm --PREFIX _`
